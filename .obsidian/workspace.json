@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17527744e73250d8",
+        "id": "eb4ee7d1b0fb3b58",
         "type": "tabs",
-        "dimension": 37.944162436548226,
         "children": [
           {
-            "id": "25a130894600ec24",
+            "id": "c891b06ba254a203",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Вопросы к программе.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b40f684fa26a3ff2",
-        "type": "tabs",
-        "dimension": 62.055837563451774,
-        "children": [
-          {
-            "id": "8431806d0f7459e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux GIT/Теория Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38910b10b737840f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux GIT/Теория GIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux GIT/Теория Linux.md",
+                "file": "Вопросы к программе.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux GIT/Теория Linux.md",
+                "file": "Вопросы к программе.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux GIT/Теория Linux.md"
+                "file": "Вопросы к программе.md"
               }
             }
           }
@@ -178,14 +146,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8431806d0f7459e8",
+  "active": "c9b1ef4a363f0265",
   "lastOpenFiles": [
-    "Linux GIT/Теория GIT.md",
     "Linux GIT/Теория Linux.md",
+    "Linux GIT/Теория GIT.md",
+    "cache/001.png",
     "cache/rCKD7kPpm4s.jpg",
+    "cache/43edf9b00b815dda9101169d0701207b.png",
     "Вопросы к программе.md",
     "Без названия",
-    "cache/43edf9b00b815dda9101169d0701207b.png",
     "cache",
     "Linux GIT",
     "Welcome.md",
