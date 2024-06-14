@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы к программе.md",
+                "file": "Linux GIT/Теория GIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы к программе.md",
+                "file": "Linux GIT/Теория GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы к программе.md",
+                "file": "Linux GIT/Теория GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы к программе.md"
+                "file": "Linux GIT/Теория GIT.md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c9b1ef4a363f0265",
+  "active": "c891b06ba254a203",
   "lastOpenFiles": [
+    "Вопросы к программе.md",
     "Linux GIT/Теория Linux.md",
     "Linux GIT/Теория GIT.md",
     "cache/001.png",
     "cache/rCKD7kPpm4s.jpg",
     "cache/43edf9b00b815dda9101169d0701207b.png",
-    "Вопросы к программе.md",
     "Без названия",
     "cache",
     "Linux GIT",
